@@ -14,7 +14,7 @@ To set up the project locally, follow these steps:
 
 ---
 
-git clone https://github.com/7tala/currency-converter-app.git
+git clone https://github.com/7TALA/currency-converter-app.git
 cd currency-converter-app
 
 ---
