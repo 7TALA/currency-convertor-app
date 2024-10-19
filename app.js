@@ -173,10 +173,6 @@ const exhangeIcon = document.querySelector(".fromto .icon");
 const specificDateInput = document.querySelector(".specific-date-input");
 const specificHistoricalRateText = document.querySelector(".specific-historical-rate");
 const getSpecificHistoricalBtn = document.querySelector(".get-specific-historical-btn");
-const favoritesList = document.querySelector("#favoritesList");
-const saveFavoriteBtn = document.querySelector("#saveFavoriteBtn");
-const multiCurrencyBtn = document.querySelector("#multiCurrencyConvertBtn");
-const multiConversionResults = document.querySelector("#multiConversionResults");
 
 // Populate currency options
 for (let i = 0; i < dropList.length; i++) {
